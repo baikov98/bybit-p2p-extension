@@ -1,0 +1,17 @@
+
+#custom-close-svg-button {
+    z-index: 100000;
+    margin-top: -50px;
+    position: absolute;
+    cursor: pointer;
+}
+
+.p2p-custom-limit-filters {
+    display: flex;
+    padding: 5px;
+    gap: 6px;
+}
+
+.p2p-custom-hidden-row {
+    display: none;
+}
